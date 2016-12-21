@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_f53c714754621dee85ff97ba699c0b40c4037f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_f63f936cecf44ea7f929d23e6414963befcce1ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_c88ba846dc244338742e567a48ffdd621d4170ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_87646681629e8e42b35cd662056164a3fc9d65f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_95fe01a232df496c15d783b76e9a0af6cd485ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_83cd2d1c6ff417685bb6be3055af61176a818c34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ac84724cef4eb6da2080afa5d8f136597a23d85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/Foursquare/api/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c56c386fbf2a5e24c824ccecf7377f0b47e33f02">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/Foursquare-api-unspecified_97275e477d951f3542a81a98253f8fa44fda3f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_c41a8b9298414f02a96d22154d0d144a2e68d686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_1d8b74f6997c1d662a379caca372023fe31ae025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_a184eef270072fb6922fb12669bdd52c95de4778.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_534d94b8bcd5bf1015a96d017f8f2ac1441b65fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_4e46ed285ee71f9d7e4a3467421a7ce29b2afc45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_319fa0162a64b595a1c94f24855d96f3f6f1708b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b8234d25f9b46b2959bef912d010c853e193c1d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_150a2114a4000f16e12fe4361ecdcabb6d79cf38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_c2293025abe2b0372716990b8dab08e2ce5e7400.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jean-philippedescamps/Dropbox (Personnelle)/Apps/Foursquare/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_13fd56485ab5aec28b6160cc5754ebb14e9a1bee.jar" />
+    </item>
+
+</items>
